@@ -1,4 +1,3 @@
-# osTicket - Ticket-Lifecycle
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
@@ -6,13 +5,16 @@
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
+
+<h2>Video Demonstration</h2>
+
+- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
-- Resolution and Documentation
-- Closure and Feedback
 
 <h2>Operating Systems Used </h2>
 
@@ -20,25 +22,18 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Ticket Intake
-- Ticket Assignment and Communication
-- Investigation abd Communication
-- Resolution and Documentation
-- Closure and Feedback
+- Intake
+- Assignment and Communication
+- Working the Issue
+- Resolution
 
 <h2>Lifecycle Stages</h2>
-i need to add screenshots
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<strong>1. Ticket Intake</strong>
-<ol>
-<li>End users subbmit tickets via the help portal or email</li>
-<li>Tickets automatically populate in the ostICKET system</li>
-<li>Basic information is captured: contact details, issue description, prioity</li>
-<li>System generates a unique ticket ID and timestamps the submission</li>
-</ol>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
@@ -46,13 +41,7 @@ i need to add screenshots
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<strong>2. Assignment and Classification</strong>
-<ol>
-<li>Help desk manager reviews new tickets in the queue</li>
-<li>Tickets are assigned to appropriate agents/departments</li>
-<li>Priority is set based on SLA requirements (Low, Medium, High, Critical)</li>
-<li>Ticket type and category are assigned for proper tracking</li>
-</ol>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
@@ -60,13 +49,6 @@ i need to add screenshots
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<strong>3. Resolution Process</strong>
-<ol>
-<li>Agent investigates the issue and communicates with user</li>
-<li>Internal notes are added to document troubleshooting steps</li>
-<li>Solution is implemented and verified with the user</li>
-<li>Ticket status is updated to "Resolved" with detailed resolution notes</li>
-<li>After user confirmation, ticket is closed and archived</li>
-</ol>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
