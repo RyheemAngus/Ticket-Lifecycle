@@ -30,22 +30,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<h2>Initial Setup</h2>
-
-Delete Maintenance Department:
-Admin Panel -> Agents -> Departments → Delete "Maintenance" (do not archive).
-Set SysAdmins as Top-Level Department:
-Edit "SysAdmins" → Ensure "Top-Level" is selected.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 <h2>Ticket 1: Critical Banking Outage</h2>
 
 End-User (Leona) Creates Ticket
@@ -53,7 +37,9 @@ End-User (Leona) Creates Ticket
 URL: http://localhost/osTicket
 Subject: "Entire mobile/online banking system is down"
 Help Topic: "Business Critical Outage"
-
+<p>
+<img width="736" height="725" alt="Image" src="https://github.com/user-attachments/assets/7b238b8c-9bf4-4802-8022-641215add7b6" />
+</p>
 Agent (Lerone) Reviews Ticket
 
 Properties:
@@ -77,7 +63,7 @@ Marks as Resolved.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="842" height="963" alt="Image" src="https://github.com/user-attachments/assets/faa4c7a4-38cf-4f3a-b7f4-1000fcabcd90" />
 </p>
 <p>
 <h2>Ticket 2: Adobe Upgrade Request</h2>
@@ -98,7 +84,7 @@ Resolves after upgrade.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="971" height="1025" alt="Image" src="https://github.com/user-attachments/assets/a0113e84-6930-46f2-a37b-c5774e7b67cb" />
 </p>
 <p>
 <h2>Ticket 3: CFO’s Laptop Issue</h2>
@@ -115,11 +101,11 @@ Assigned To: Lerone
 Resolution:
 Replaced laptop battery; verified power-on.
 </p>
+<p>
+<img width="824" height="353" alt="Image" src="https://github.com/user-attachments/assets/b3118725-c192-498b-9f0e-0a9f6fc10b0b" />
+</p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
 <h2>Ticket 4: Printer On 3rd Floor Not Printing</h2>
 
@@ -134,5 +120,8 @@ SLA: Sev-A (1 hours, 24/7)
 Assigned To: Lerone
 Resolution:
 Connected remotely to the printer management console to clear the stuck print queue then went and ran physical tests on the printer to ensure it was working. 
+</p>
+<p>
+<img width="2240" height="1260" alt="Image" src="https://github.com/user-attachments/assets/f95eaf97-19a3-41fe-ae9b-15325fc26f5e" />
 </p>
 <br />
